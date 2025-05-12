@@ -9,11 +9,11 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 I’m currently working on **[Project Name]**
+- 🔭 I’m currently studying React
 - 🌱 I’m learning **advanced Flutter animations & clean architecture**
 - 💬 Ask me about **Flutter, Firebase, Dart, UI/UX**
-- 📫 How to reach me: **[your.email@example.com](mailto:your.email@example.com)**
-- 🌐 Portfolio: [yourwebsite.com](https://yourwebsite.com)
+- 📫 How to reach me: **[navodyatheshan4@gmail.com](mailto:your.email@example.com)**
+- 🌐 Portfolio: [yourwebsite.com]([https://yourwebsite.com](https://my-portfolio-53d6d.firebaseapp.com/))
 
 ---
 
