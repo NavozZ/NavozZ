@@ -80,8 +80,8 @@
 ### 🎯 Fun Facts
 
 - 🧠 I love learning new tech over coffee ☕  
-- 🕹️ I enjoy game development in my spare time  
-- 💬 I speak 3 languages fluently  
+- 🕹️ I editing reels free time 
+- 💬 Making Social Media Contents
 
 ---
 
