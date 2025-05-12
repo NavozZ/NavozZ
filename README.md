@@ -32,7 +32,7 @@
 ### 📚 Languages & Tools
 
 <p align="center">
-  <a href="#"><img src="https://skillicons.dev/icons?i=dart,flutter,firebase,git,github,vscode,figma" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=dart,flutter,firebase,git,github,vscode,figma,html,css,javascript,c,react,nodejs" /></a>
 </p>
 
 ---
@@ -63,9 +63,11 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NavozZ&show_icons=true&theme=radical" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NavozZ&theme=radical" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=NavozZ&show_icons=true&theme=tokyonight&border_radius=15"/><br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NavozZ&theme=tokyonight&border_radius=15"/>
 </p>
+
+
 
 ---
 
@@ -81,8 +83,8 @@
 ### 🎯 Fun Facts
 
 - 🧠 I love learning new tech over coffee ☕  
-- 🕹️ I editing reels free time 
-- 💬 Making Social Media Contents
+- 🕹️ I edit reels in my free time
+- 💬 I create social media conten
 
 ---
 
