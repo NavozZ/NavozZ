@@ -2,18 +2,18 @@
 <h3 align="center">Software Engineering Student | Passionate Mobile & Web Developer</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=0e75b6&style=flat" alt="yourusername" />
+  <img src="https://komarev.com/ghpvc/?username=NavozZ&label=Profile%20views&color=0e75b6&style=flat" alt="NavozZ" />
 </p>
 
 ---
 
 ### 👨‍💻 About Me
 
-- 🔭 I’m currently studying React
+- 🔭 I’m currently studying **React**
 - 🌱 I’m learning **advanced Flutter animations & clean architecture**
 - 💬 Ask me about **Flutter, Firebase, Dart, UI/UX**
-- 📫 How to reach me: **[navodyatheshan4@gmail.com](mailto:your.email@example.com)**
-- 🌐 Portfolio: https://yourwebsite.com](https://my-portfolio-53d6d.firebaseapp.com/
+- 📫 How to reach me: **[navodyatheshan4@gmail.com](mailto:navodyatheshan4@gmail.com)**
+- 🌐 Portfolio: [my-portfolio-53d6d.firebaseapp.com](https://my-portfolio-53d6d.firebaseapp.com/)
 
 ---
 
@@ -29,16 +29,33 @@
 
 ---
 
+### 📚 Languages & Tools
+
+<p align="center">
+  <a href="#"><img src="https://skillicons.dev/icons?i=dart,flutter,firebase,git,github,vscode,figma" /></a>
+</p>
+
+---
+
 ### 📂 Featured Projects
 
-#### 🚀 [Project One](https://github.com/yourusername/project-one)
-> A beautiful Flutter app with Firebase Auth, Firestore, and clean UI
+#### 🚀 [Flutter Auth App](https://github.com/NavozZ/project-one)
+> A beautiful Flutter app with Firebase Auth, Firestore, and clean UI  
+> ![auth demo](https://user-images.githubusercontent.com/yourusername/demo.gif)
 
-#### 📱 [Project Two](https://github.com/yourusername/project-two)
+#### 📱 [Real-time Chat App](https://github.com/NavozZ/project-two)
 > A cross-platform app with real-time chat and push notifications
 
-#### 🔐 [Project Three](https://github.com/yourusername/project-three)
+#### 🔐 [Profile Settings App](https://github.com/NavozZ/project-three)
 > Flutter app with secure login, background image UI, and profile settings
+
+---
+
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=NavozZ&theme=radical&no-frame=true&no-bg=true&margin-w=4" />
+</p>
 
 ---
 
@@ -48,6 +65,22 @@
   <img src="https://github-readme-stats.vercel.app/api?username=NavozZ&show_icons=true&theme=radical" width="48%"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=NavozZ&theme=radical" width="48%"/>
 </p>
+
+---
+
+### 📈 GitHub Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=NavozZ&theme=radical" alt="activity graph"/>
+</p>
+
+---
+
+### 🎯 Fun Facts
+
+- 🧠 I love learning new tech over coffee ☕  
+- 🕹️ I enjoy game development in my spare time  
+- 💬 I speak 3 languages fluently  
 
 ---
 
