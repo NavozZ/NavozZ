@@ -63,9 +63,10 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NavozZ&show_icons=true&theme=tokyonight&border_radius=15"/><br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NavozZ&theme=tokyonight&border_radius=15"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=NavozZ&show_icons=true&theme=react&border_radius=15" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NavozZ&theme=react&border_radius=15" width="48%" />
 </p>
+
 
 
 
