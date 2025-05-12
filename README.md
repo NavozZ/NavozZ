@@ -54,8 +54,9 @@
 ### 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=NavozZ&theme=radical&no-frame=true&no-bg=true&margin-w=4" />
+  <img src="https://github-profile-trophy.vercel.app/?username=NavozZ&theme=darkhub&no-frame=true&no-bg=true&margin-w=4" />
 </p>
+
 
 
 ---
@@ -63,9 +64,10 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NavozZ&show_icons=true&theme=react&border_radius=15" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NavozZ&theme=react&border_radius=15" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=NavozZ&show_icons=true&theme=tokyonight&border_radius=15"/><br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NavozZ&theme=tokyonight&border_radius=15"/>
 </p>
+
 
 
 
