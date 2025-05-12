@@ -71,7 +71,8 @@
 ### 📈 GitHub Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=NavozZ&theme=radical" alt="activity graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NavozZ&theme=radical" />
+
 </p>
 
 ---
