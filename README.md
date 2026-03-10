@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:02569B,100:FFCA28&height=200&section=header&text=Navodya%20Theshan&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Flutter%20%7C%20Mobile%20%26%20Web%20Developer&descAlignY=58&descSize=18&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:02569B,100:FFCA28&height=200&section=header&text=Navodya%20Theshan&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Fullstack%20Developer%20%7C%20MERN%20%C2%B7%20Flutter%20%C2%B7%20Mobile%20%26%20Web&descAlignY=58&descSize=18&animation=fadeIn" />
 
 <a href="https://komarev.com/ghpvc/?username=NavozZ">
   <img src="https://komarev.com/ghpvc/?username=NavozZ&label=Profile%20Views&color=02569B&style=flat-square" alt="Profile Views"/>
@@ -19,15 +19,15 @@
 ```dart
 class Developer {
   final String name    = "Navodya Theshan";
-  final String role    = "Mobile & Web Developer";
-  final String focus   = "Flutter · Firebase · React";
+  final String role    = "Fullstack Developer";
+  final String stacks  = "MERN (MongoDB · Express · React · Node.js) + Flutter";
   final String email   = "navodyatheshan4@gmail.com";
   final String status  = "Open to opportunities 🚀";
 
   List<String> get currentlyDoing => [
-    "Building cross-platform apps with Flutter",
-    "Exploring advanced animations & clean architecture",
-    "Deepening skills in React & modern web dev",
+    "Building fullstack web apps with the MERN stack",
+    "Crafting cross-platform mobile apps with Flutter & Firebase",
+    "Exploring advanced animations & clean architecture patterns",
   ];
 
   String get funFact => "Fuelled by coffee ☕ and late-night reels 🎬";
@@ -38,10 +38,14 @@ class Developer {
 
 ## 🛠️ Tech Stack
 
-**Mobile & Frontend**
+**Mobile**
 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+**Frontend**
+
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -49,8 +53,11 @@ class Developer {
 
 **Backend & Database**
 
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![REST API](https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge&logo=fastapi&logoColor=white)
 
 **Tools & Design**
 
@@ -58,6 +65,7 @@ class Developer {
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ---
 
