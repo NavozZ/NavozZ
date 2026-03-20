@@ -2,12 +2,11 @@
 
 <img src="https://i.pinimg.com/1200x/d7/a0/e0/d7a0e07686e15945172b31787f08ce77.jpg" alt="Banner" width="100%" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:02569B,50:0175C2,100:FFCA28&height=250&section=header&text=Navodya%20Theshan&fontSize=58&fontColor=ffffff&fontAlignY=40&desc=Fullstack%20Developer%20%7C%20MERN%20%C2%B7%20Flutter%20%C2%B7%20Mobile%20%26%20Web&descAlignY=60&descSize=20&animation=fadeIn" width="100%" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=38&duration=2500&pause=600&color=0E9E6E&background=00000000&center=true&vCenter=true&width=800&height=80&lines=Navodya+Theshan;Fullstack+Developer;MERN+%2B+Flutter+%7C+Web+%26+Mobile" alt="Name Header" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=800&color=14C38E&center=true&vCenter=true&width=700&height=40&lines=Building+Web+%26+Mobile+Apps+%F0%9F%9A%80;Open+to+Opportunities+%F0%9F%8C%9F;Coffee+%E2%98%95+%2B+Code+%2B+Late+Night+Reels+%F0%9F%8E%AC" alt="Subtitle" />
 
 <!-- Typing Animation -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=02569B&center=true&vCenter=true&multiline=false&width=600&lines=Hi+there!+I'm+Navodya+%F0%9F%91%8B;Fullstack+Developer+%7C+MERN+%2B+Flutter;Building+Web+%26+Mobile+Apps+%F0%9F%9A%80;Open+to+Opportunities+%F0%9F%8C%9F" alt="Typing SVG" />
-</a>
+
 
 <br/>
 
@@ -185,11 +184,9 @@ class Developer {
 ## 🏆 GitHub Trophies
 
 <div align="center">
-
   <img src="https://github-trophies.vercel.app/?username=NavozZ&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=4&rank=S,AAA,AA,A" />
   <br/>
   <img src="https://github-trophies.vercel.app/?username=NavozZ&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=4&rank=B,C,UNKNOWN" />
-
 </div>
 
 ---
@@ -203,7 +200,6 @@ class Developer {
     <img alt="Snake animation" src="https://raw.githubusercontent.com/NavozZ/NavozZ/output/github-contribution-grid-snake.svg" />
   </picture>
 </div>
-
 
 ---
 
@@ -238,5 +234,5 @@ class Developer {
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFCA28,100:02569B&height=130&section=footer" />
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 </div>
