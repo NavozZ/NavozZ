@@ -22,7 +22,7 @@ class Developer {
   final String role    = "Fullstack Developer";
   final String stacks  = "MERN (MongoDB · Express · React · Node.js) + Flutter";
   final String email   = "navodyatheshan4@gmail.com";
-  final String status  = "Open to opportunities 🚀";
+  final String status  = "Open to opportunities";
 
   List<String> get currentlyDoing => [
     "Building fullstack web apps with the MERN stack",
@@ -56,7 +56,6 @@ class Developer {
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![REST API](https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge&logo=fastapi&logoColor=white)
 
 **Tools & Design**
@@ -80,7 +79,7 @@ class Developer {
         <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
         <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
       </p>
-      <a href="https://github.com/NavozZ/project-one">View Project →</a>
+      <a href="https://github.com/NavozZ">Update this link to your Auth App repo →</a>
     </td>
     <td width="50%">
       <h3>💬 Real-time Chat App</h3>
@@ -89,7 +88,7 @@ class Developer {
         <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
         <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
       </p>
-      <a href="https://github.com/NavozZ/project-two">View Project →</a>
+      <a href="https://github.com/NavozZ">Update this link to your Chat App repo →</a>
     </td>
   </tr>
   <tr>
@@ -100,7 +99,7 @@ class Developer {
         <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
         <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white"/>
       </p>
-      <a href="https://github.com/NavozZ/project-three">View Project →</a>
+      <a href="https://github.com/NavozZ">Update this link to your Profile Settings repo →</a>
     </td>
     <td width="50%">
       <h3>🌐 Portfolio Website</h3>
