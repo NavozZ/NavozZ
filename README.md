@@ -2,7 +2,7 @@
 
 <img src="https://i.pinimg.com/1200x/d7/a0/e0/d7a0e07686e15945172b31787f08ce77.jpg" alt="Banner" width="100%" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:02569B,100:FFCA28&height=220&section=header&text=Navodya%20Theshan&fontSize=55&fontColor=ffffff&fontAlignY=36&desc=Fullstack%20Developer%20%7C%20MERN%20%C2%B7%20Flutter%20%C2%B7%20Mobile%20%26%20Web&descAlignY=55&descSize=20&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:02569B,50:0175C2,100:FFCA28&height=250&section=header&text=Navodya%20Theshan&fontSize=58&fontColor=ffffff&fontAlignY=40&desc=Fullstack%20Developer%20%7C%20MERN%20%C2%B7%20Flutter%20%C2%B7%20Mobile%20%26%20Web&descAlignY=60&descSize=20&animation=fadeIn" width="100%" />
 
 <!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
