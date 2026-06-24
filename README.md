@@ -2,11 +2,8 @@
 
 <img src="https://i.pinimg.com/1200x/d7/a0/e0/d7a0e07686e15945172b31787f08ce77.jpg" alt="Banner" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=38&duration=2500&pause=600&color=0E9E6E&background=00000000&center=true&vCenter=true&width=800&height=80&lines=Navodya+Theshan;Fullstack+Developer;MERN+%2B+Flutter+%7C+Web+%26+Mobile" alt="Name Header" />
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=800&color=14C38E&center=true&vCenter=true&width=700&height=40&lines=Building+Web+%26+Mobile+Apps+%F0%9F%9A%80;Open+to+Opportunities+%F0%9F%8C%9F;Coffee+%E2%98%95+%2B+Code+%2B+Late+Night+Reels+%F0%9F%8E%AC" alt="Subtitle" />
-
-<!-- Typing Animation -->
-
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=38&duration=2500&pause=600&color=0E9E6E&background=00000000&center=true&vCenter=true&width=800&height=80&lines=Navodya+Theshan;Fullstack+%26+DevOps+Engineer;MERN+%2B+Docker+%2B+CI%2FCD" alt="Name Header" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=800&color=14C38E&center=true&vCenter=true&width=700&height=40&lines=Building+%26+Shipping+Fullstack+Apps+%F0%9F%9A%80;Automating+Deploys+with+Docker+%26+CI%2FCD+%E2%9A%99%EF%B8%8F;Open+to+Opportunities+%F0%9F%8C%9F" alt="Subtitle" />
 
 <br/>
 
@@ -31,19 +28,20 @@
 ```dart
 class Developer {
   final String name   = "Navodya Theshan";
-  final String role   = "Fullstack Developer";
-  final String stack  = "MERN + Flutter";
+  final String role   = "Fullstack & DevOps Engineer";
+  final String stack  = "MERN + Docker + CI/CD";
   final String email  = "navodyatheshan4@gmail.com";
   final String status = "Open to opportunities";
 
   List<String> get currentlyDoing => [
-    "🌐 Building fullstack apps with MERN",
-    "📱 Crafting mobile apps with Flutter & Firebase",
-    "✨ Exploring animations & clean architecture",
+    "🌐 Building fullstack apps with the MERN stack",
+    "🐳 Containerizing services with Docker & Docker Compose",
+    "⚙️ Automating deployments with GitHub Actions CI/CD",
+    "☁️ Exploring cloud-native deployment on AWS",
   ];
 
   String get funFact =>
-      "Fuelled by coffee ☕ and late-night reels 🎬";
+      "Fuelled by coffee ☕ and late-night deploys 🚀";
 }
 ```
 
@@ -51,21 +49,27 @@ class Developer {
 
 ---
 
+## 🏆 Achievements
+
+- 🥈 **2nd Place — Hacktonight 3.0 Hackathon**, organized by FOSS Community, NSBM Green University
+
+---
+
 ## 🛠️ Tech Stack
 
 <div align="center">
 
-### 📱 Mobile
-<img src="https://skillicons.dev/icons?i=flutter,dart,firebase&theme=dark" />
-
 ### 🌐 Frontend
-<img src="https://skillicons.dev/icons?i=react,js,html,css&theme=dark" />
+<img src="https://skillicons.dev/icons?i=react,vite,js,ts,html,css,tailwind,flutter&theme=dark" />
 
 ### ⚙️ Backend & Database
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase&theme=dark" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase&theme=dark" />
+
+### 🐳 DevOps & Cloud
+<img src="https://skillicons.dev/icons?i=docker,githubactions,git,aws,linux&theme=dark" />
 
 ### 🔧 Tools & Design
-<img src="https://skillicons.dev/icons?i=git,github,figma,vscode,postman&theme=dark" />
+<img src="https://skillicons.dev/icons?i=github,figma,vscode,postman&theme=dark" />
 
 </div>
 
@@ -78,55 +82,49 @@ class Developer {
 <table>
   <tr>
     <td width="50%">
+      <h3>📈 CryptoPulse — AI Crypto Analytics</h3>
+      <p>AI-powered crypto dashboard: React, Node.js, TypeScript, ML forecasting & Docker/CI-CD.</p>
+      <p>
+        <img src="https://img.shields.io/badge/JavaScript-76.2%25-F7DF1E?style=flat-square&logo=javascript&logoColor=000" />
+        <img src="https://img.shields.io/badge/TypeScript-11.8%25-3178C6?style=flat-square&logo=typescript&logoColor=fff" />
+        <img src="https://img.shields.io/badge/Docker-CI%2FCD-2496ED?style=flat-square&logo=docker&logoColor=fff" />
+      </p>
+      <a href="https://github.com/NavozZ/crypto-pulse">View Project →</a>
+    </td>
+    <td width="50%">
       <h3>🛋️ RoomCraft</h3>
-      <p>PUSL3122 HCI Coursework — Interactive room design tool.</p>
+      <p>3D furniture room visualiser — React Three Fiber & role-based dashboards.</p>
       <p>
         <img src="https://img.shields.io/badge/JavaScript-98.7%25-F7DF1E?style=flat-square&logo=javascript&logoColor=000" />
         <img src="https://img.shields.io/badge/CSS-1.1%25-1572B6?style=flat-square&logo=css3&logoColor=fff" />
-        <img src="https://img.shields.io/badge/HTML-0.2%25-E34F26?style=flat-square&logo=html5&logoColor=fff" />
       </p>
       <a href="https://github.com/NavozZ/roomcraft">View Project →</a>
     </td>
+  </tr>
+  <tr>
     <td width="50%">
       <h3>🧸 E-commerce Toy Store</h3>
       <p>Full-featured JavaScript e-commerce web app.</p>
       <p>
         <img src="https://img.shields.io/badge/JavaScript-99.5%25-F7DF1E?style=flat-square&logo=javascript&logoColor=000" />
-        <img src="https://img.shields.io/badge/Other-0.5%25-9E9E9E?style=flat-square" />
       </p>
       <a href="https://github.com/NavozZ/e-commerce-toy-store">View Project →</a>
     </td>
-  </tr>
-  <tr>
     <td width="50%">
       <h3>🇱🇰 Visit Sri Lanka</h3>
-      <p>PUSL2021 Group Project — Cross-platform Travel Guide App.</p>
+      <p>Cross-platform Flutter travel guide app — Firebase, Stripe, push notifications.</p>
       <p>
-        <img src="https://img.shields.io/badge/C%2B%2B-30%25-00599C?style=flat-square&logo=c%2B%2B&logoColor=fff" />
         <img src="https://img.shields.io/badge/Dart-27.4%25-0175C2?style=flat-square&logo=dart&logoColor=fff" />
-        <img src="https://img.shields.io/badge/C-24.4%25-A8B9CC?style=flat-square&logo=c&logoColor=000" />
-        <img src="https://img.shields.io/badge/CMake-17.2%25-064F8C?style=flat-square&logo=cmake&logoColor=fff" />
       </p>
       <a href="https://github.com/NavozZ/visit_sri_lanka_travel_guide_app">View Project →</a>
-    </td>
-    <td width="50%">
-      <h3>📈 Crypto Pulse</h3>
-      <p>Real-time crypto dashboard built with JS & TypeScript.</p>
-      <p>
-        <img src="https://img.shields.io/badge/JavaScript-76.2%25-F7DF1E?style=flat-square&logo=javascript&logoColor=000" />
-        <img src="https://img.shields.io/badge/TypeScript-11.8%25-3178C6?style=flat-square&logo=typescript&logoColor=fff" />
-        <img src="https://img.shields.io/badge/CSS-11.1%25-1572B6?style=flat-square&logo=css3&logoColor=fff" />
-      </p>
-      <a href="https://github.com/NavozZ/crypto-pulse">View Project →</a>
     </td>
   </tr>
   <tr>
     <td width="50%">
       <h3>🤖 AIDF Final — Frontend</h3>
-      <p>AI Driven Fullstack Course — React Frontend.</p>
+      <p>AI Driven Fullstack Course — React frontend.</p>
       <p>
         <img src="https://img.shields.io/badge/JavaScript-96.7%25-F7DF1E?style=flat-square&logo=javascript&logoColor=000" />
-        <img src="https://img.shields.io/badge/CSS-3%25-1572B6?style=flat-square&logo=css3&logoColor=fff" />
       </p>
       <a href="https://github.com/NavozZ/AIDF-Final-Front-end">View Project →</a>
     </td>
@@ -144,8 +142,6 @@ class Developer {
       <h3>🏨 Hotel Booking System</h3>
       <p>Cross-platform Flutter booking app with native tooling.</p>
       <p>
-        <img src="https://img.shields.io/badge/C%2B%2B-35.6%25-00599C?style=flat-square&logo=c%2B%2B&logoColor=fff" />
-        <img src="https://img.shields.io/badge/CMake-28.8%25-064F8C?style=flat-square&logo=cmake&logoColor=fff" />
         <img src="https://img.shields.io/badge/Dart-28.4%25-0175C2?style=flat-square&logo=dart&logoColor=fff" />
       </p>
       <a href="https://github.com/NavozZ/hotel_booking_system">View Project →</a>
